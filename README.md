@@ -4,7 +4,7 @@
 
 - 😄 Pronouns: She/her
 
-- 🌱 I’m currently learning **Responsive Web Design (HTML & CSS) on [FreeCodeCamp](https://www.freecodecamp.org/) & Frontend Enginner on [EBAC](https://ebaconline.com.br/)**
+- 🌱 I’m currently learning **Responsive Web Design (HTML & CSS) on [FreeCodeCamp](https://www.freecodecamp.org/) & Frontend Engineer on [EBAC](https://ebaconline.com.br/)**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/jade-kitagawas-projects](https://vercel.com/jade-kitagawas-projects)
 
