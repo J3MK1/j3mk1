@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my Profile!✨ </h1>
 
-<img src="https://i.ibb.co/znXy2z5/github.png" alt="github" border="0">
-
 - 😄 Pronouns: She/her
 
 - 🌱 I’m currently learning **Responsive Web Design (HTML & CSS) on [FreeCodeCamp](https://www.freecodecamp.org/) & Frontend Engineer on [EBAC](https://ebaconline.com.br/)**
